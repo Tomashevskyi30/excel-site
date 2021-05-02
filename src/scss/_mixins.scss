@@ -11,7 +11,8 @@
     font-size: 18px;
   }
   &:active,&.active{
-    color:$color;
+    background: #e1cfff;
+    border: 1px solid #202124;
   }
   &:hover{
     background: #eee;
